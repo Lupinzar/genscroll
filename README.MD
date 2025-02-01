@@ -44,7 +44,7 @@ Similar to above, but vertical scroll is whole plane instead of column.
 + Hor. Scroll - Tile
 + Vert. Scroll - Column
 
-Tile row 1 if offset by current x offset.
+Tile row 1 is offset by current x offset.
 
 ### SCREEN TEST
 + Hor. Scroll - Plane
