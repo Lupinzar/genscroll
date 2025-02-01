@@ -28,28 +28,28 @@ without too much trouble.
 
 ## Tests
 ### LINE TEST
-Hor. Scroll - Line
-Vert. Scroll - Column
++ Hor. Scroll - Line
++ Vert. Scroll - Column
 
 Lines 8-15 are shifted by the current offset which each line having an
 additiona increment of 1. Squares turn into rhombus like shapes.
 
 ### LINE PLANE TEST
-Hor. Scroll - Line
-Vert. Scroll - Plane
++ Hor. Scroll - Line
++ Vert. Scroll - Plane
 
 Similar to above, but vertical scroll is whole plane instead of column.
 
 ### TILE TEST
-Hor. Scroll - Tile
-Vert. Scroll - Column
++ Hor. Scroll - Tile
++ Vert. Scroll - Column
 
 Tile row 1 if offset by current x offset.
 
 ### SCREEN TEST
-Hor. Scroll - Plane
-Vert. Scroll - Column
++ Hor. Scroll - Plane
++ Vert. Scroll - Column
 
 ### FULL TEST
-Hor. Scoll - Plane
-Vert. Scroll - Plane
++ Hor. Scoll - Plane
++ Vert. Scroll - Plane
